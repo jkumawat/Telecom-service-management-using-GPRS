@@ -1,0 +1,8 @@
+emp1@1@Arun Verma@A/24 Ganganagar Soc.|near Ward Office@2773016@Cross Line@Medium
+emp2@3@Shailesh Satariya@17, Viabhav Nagar |opp. Ward Office@2778945@Cross Line@Medium
+emp5@5@Nitin Mandani@25 , dindayal soc.,|opp. satyam dairy@2768984@Instrument Not Work@Medium
+emp1@6@Vipul Vankadiya@b,67 Jyotsna Nagar|near ganesh mandir@2778958@Instrument Not Work@Medium
+emp2@8@Arun Verma@A/24 Ganganagar Soc.|near Ward Office@2773016@Cross Line@Medium
+emp5@9@Nitin Mandani@25 , dindayal soc.,|opp. satyam dairy@2768984@Line Dead@Low
+emp3@2@Jitendra Kumawat@6,Vaishali Bunglow|behind Abhishek bunglow@2605495@Instrument Not Work@Medium
+emp4@4@Bhavya Dawar@5,Ashirwad Bunglow|Opp. Landmark hoda@2798952@Disturbance@Medium

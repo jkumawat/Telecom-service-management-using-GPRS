@@ -1,0 +1,41 @@
+[22-Mar-2009 22:56:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home3/urparekh/public_html/telecom/index.php:2) in /home3/urparekh/public_html/telecom/index.php on line 2
+[22-Mar-2009 22:56:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/urparekh/public_html/telecom/index.php:2) in /home3/urparekh/public_html/telecom/index.php on line 2
+[22-Mar-2009 22:57:47] PHP Parse error:  syntax error, unexpected ')' in /home3/urparekh/public_html/telecom/chklogin.php on line 38
+[22-Mar-2009 22:58:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home3/urparekh/public_html/telecom/chklogin.php:2) in /home3/urparekh/public_html/telecom/chklogin.php on line 2
+[05-Aug-2009 01:57:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'urparekh_scet'@'localhost' (using password: YES) in /home/urparekh/public_html/telecom/connect.php on line 2
+[05-Aug-2009 02:32:47] PHP Parse error:  syntax error, unexpected '*' in /home/urparekh/public_html/telecom/index.php on line 98
+[05-Aug-2009 02:33:45] PHP Parse error:  syntax error, unexpected $end in /home/urparekh/public_html/telecom/index.php on line 179
+[05-Aug-2009 02:35:58] PHP Parse error:  syntax error, unexpected $end in /home/urparekh/public_html/telecom/index.php on line 179
+[05-Aug-2009 02:42:45] PHP Warning:  unlink(log.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/index.php on line 120
+[05-Aug-2009 02:43:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/temp2.php:34) in /home/urparekh/public_html/telecom/temp2.php on line 162
+[05-Aug-2009 02:43:01] PHP Warning:  unlink(log.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/index.php on line 120
+[05-Aug-2009 02:48:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/temp2.php:34) in /home/urparekh/public_html/telecom/temp2.php on line 162
+[05-Aug-2009 02:50:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/temp2.php:34) in /home/urparekh/public_html/telecom/temp2.php on line 162
+[05-Aug-2009 02:50:27] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 95
+[05-Aug-2009 02:55:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/temp2.php:34) in /home/urparekh/public_html/telecom/temp2.php on line 162
+[05-Aug-2009 03:18:14] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 95
+[05-Aug-2009 03:27:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/logout.php:10) in /home/urparekh/public_html/telecom/logout.php on line 12
+[05-Aug-2009 03:28:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/logout.php:10) in /home/urparekh/public_html/telecom/logout.php on line 12
+[05-Aug-2009 03:28:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/logout.php:10) in /home/urparekh/public_html/telecom/logout.php on line 12
+[05-Aug-2009 03:28:27] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/urparekh/public_html/telecom/temp2.php on line 114
+[05-Aug-2009 03:28:28] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 95
+[05-Aug-2009 03:28:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/urparekh/public_html/telecom/temp2.php on line 114
+[05-Aug-2009 03:37:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/urparekh/public_html/telecom/solve.php on line 137
+[05-Aug-2009 03:38:48] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 95
+[05-Aug-2009 03:43:35] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 95
+[05-Aug-2009 03:54:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/logout.php:10) in /home/urparekh/public_html/telecom/logout.php on line 12
+[05-Aug-2009 04:10:11] PHP Parse error:  syntax error, unexpected '}' in /home/urparekh/public_html/telecom/temp2.php on line 138
+[05-Aug-2009 04:11:27] PHP Warning:  readdir(): 3 is not a valid Directory resource in /home/urparekh/public_html/telecom/temp2.php on line 109
+[05-Aug-2009 04:13:05] PHP Warning:  readdir(): 3 is not a valid Directory resource in /home/urparekh/public_html/telecom/temp2.php on line 109
+[05-Aug-2009 04:16:21] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/urparekh/public_html/telecom/temp2.php on line 135
+[05-Aug-2009 04:16:21] PHP Warning:  readdir(): 3 is not a valid Directory resource in /home/urparekh/public_html/telecom/temp2.php on line 109
+[05-Aug-2009 04:23:32] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/urparekh/public_html/telecom/solve.php on line 162
+[05-Aug-2009 05:43:48] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/urparekh/public_html/telecom/chklogin.php on line 12
+[05-Aug-2009 05:44:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/chklogin.php:11) in /home/urparekh/public_html/telecom/chklogin.php on line 23
+[05-Aug-2009 05:45:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/chklogin.php:11) in /home/urparekh/public_html/telecom/chklogin.php on line 23
+[05-Aug-2009 05:45:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/chklogin.php:11) in /home/urparekh/public_html/telecom/chklogin.php on line 23
+[05-Aug-2009 05:46:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/chklogin.php:12) in /home/urparekh/public_html/telecom/chklogin.php on line 25
+[05-Aug-2009 05:47:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urparekh/public_html/telecom/chklogin.php:12) in /home/urparekh/public_html/telecom/chklogin.php on line 25
+[05-Aug-2009 05:49:56] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/urparekh/public_html/telecom/chklogin.php on line 21
+[05-Aug-2009 07:35:42] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 101
+[05-Aug-2009 07:37:24] PHP Warning:  unlink(solved.txt) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/urparekh/public_html/telecom/solve.php on line 101
